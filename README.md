@@ -1,20 +1,21 @@
-# nerdearla-chile
+# GitHub ❤️ Nerdearla
 ### ¡Saludos a todos los entusiastas de GitHub!
 
 Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Chile]([http://www.eventbrite.ca/e/637519998477/?discount=sponsorfriends20Jan2024](https://nerdear.la/en/))**. 
-
-<img width="310" alt="nerdeala src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/fc4a7b10-a7a0-457d-bd5e-1796203bcb80"
+<img width="310" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/fc4a7b10-a7a0-457d-bd5e-1796203bcb80">
 
 ### Horarios de participacion y actividades 🗓️
 
-## Dia 0 | Miercoles, Abril 10
-
+## Dia 0 Evento en AIEP | Miercoles, Abril 10
 ¡Hola comunidad!
 Estamos muy felices de anunciar que tendremos nuestro primer evento presencial el mes de abril. 🙌🏼
 En este evento podrás conocer a la comunidad GitHub, disfrutar interesantes charlas, participar con profesionales de GitHub, participar en concursos y más.
 
 Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santiago/)
-![image](https://github.com/gittogethers/nerdearla-chile/assets/20666190/0c685701-e93a-460e-bc4b-165686f50ddd)
+
+<img width="520" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/c4ca6072-a35a-432b-ba00-444fd4ad3121">
+
+
 
 
 ## Dia 1 |Jueves, abril 11
