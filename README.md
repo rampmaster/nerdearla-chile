@@ -14,14 +14,16 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
 
 <img width="520" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/c4ca6072-a35a-432b-ba00-444fd4ad3121">
 
-
-
-
-## Dia 1 |Jueves, abril 11
+## Dia 1 | Jueves, abril 11
 
 - Apertura de la Exhibición virtual a las 10:00 AM: Únete para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
+- ![image](https://github.com/gittogethers/nerdearla-chile/assets/20666190/91115e70-3ff8-431d-8ec7-d04e41e42373)
+
 
 ## Dia 2 | Viernes, abril 12
+- Apertura de la Exhibición fisica a las 10:00 AM: Únete para participar en nuestros sorteos
+
+
 - 12:05 PM - 12:35 PM: Inteligencia Artificial en Desarrollo - Conoce al Copilot de hoy y su futuro. Lugar: Sala Fiestas.
 Tema de la Charla: Copilot es más que un asistente para desarrolladores en su entorno de programación. Próximamente se lanzarán numerosas características adicionales, con el objetivo de integrar la IA en cada etapa del proceso de DevSecOps. Descúbrelas en nuestra charla.
 
