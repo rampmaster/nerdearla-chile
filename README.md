@@ -18,8 +18,8 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
 ## Dia 1 Plataforma Virtual | Jueves, abril 11
 
 - Apertura de la Exhibición virtual a las 10:00 AM: Únete para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
-- Inscribete para ganar: deja un comentario en este[issue.](https://github.com/gittogethers/selector-rifa/issues/63).
-- Charla del dia por Lider de GitTogeher Santiago:
+- Inscribete para ganar: deja un comentario en este[issue.](https://github.com/gittogethers/selector-rifa/issues/63)
+- Charla del dia por Lider de GitTogether Santiago:
 <img width="520" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/399bd990-82fd-4d99-9327-0db52c366e2c">
 
 ## Dia 2 | Viernes, abril 12
@@ -29,14 +29,16 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
 <img width="520" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/30d6defe-0bce-4e31-a6c7-5ddb673c1499">
 <img width="520" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/d188a6cd-f9ec-4305-8bc2-6f13ea4c08bb">
 <img width="520" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/218804b0-7b4e-4366-a12d-4e4953b1fb9f">
+
 - Octotrivia a las 4 PM en la mesa de GitHub exhibit: Juega, participa y demuestra tus conocimientos en IA y gana swag!
 <img width="310" alt="Screenshot 2024-01-15 at 4 42 05 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/d31a374b-8816-4c41-b34b-ae8ef3e948e5">
+
 - Entrega de premios
 
 ## Dia 3 | Sabado, abril 13
 
 - Apertura de la Exhibición a las 10:00 AM: ¡Únete a nuestro encuentro para participar en una rifa especial! No te pierdas nuestros [GitTogethers Presenciales en Santiago](https://www.meetup.com/gittogether-santiago/).
-- Introducción al SDP 11:00 AM a 11:20 AM: 👩🏻‍🎓 Si eres estudiante, recuerda que tienes acceso al GitHub Student Developer Pack, que incluye más de 80 herramientas, como copilot, de manera gratuita. Únete a esta charla relámpago desde nuestro stand y descubre todas las ventajas aquí: [SDP](https://gh.io/edu-nerdearla)).
+- Introducción al SDP 11:00 AM a 11:20 AM: 👩🏻‍🎓 Si eres estudiante, recuerda que tienes acceso al GitHub Student Developer Pack, que incluye más de 80 herramientas, como copilot, de manera gratuita. Únete a esta charla relámpago desde nuestro stand y descubre todas las ventajas aquí: [SDP](https://gh.io/edu-nerdearla).
 - Rifa Final a las 4 PM: ¡Si aún no has participado en nuestro sorteo, esta es tu oportunidad! Inscribete para ganar: deja un comentario en este [issue.](https://github.com/gittogethers/selector-rifa/issues/63)
    <img src="https://github.com/githubpresente/impulse-ai/assets/20666190/7411881f-c63d-40a8-9fca-4158ea59f489" width="200" height="200">
 
