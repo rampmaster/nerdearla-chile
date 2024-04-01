@@ -1,10 +1,9 @@
 # GitHub ❤️ Nerdearla
-### ¡Saludos a todos los entusiastas de GitHub!
 
 Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Chile]([http://www.eventbrite.ca/e/637519998477/?discount=sponsorfriends20Jan2024](https://nerdear.la/en/))**. 
 <img width="310" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/fc4a7b10-a7a0-457d-bd5e-1796203bcb80">
 
-### Horarios de participacion y actividades 🗓️
+# Horarios de participacion y actividades 🗓️
 
 ## Dia 0 Evento en AIEP | Miercoles, Abril 10
 ¡Hola comunidad!
