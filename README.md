@@ -3,7 +3,7 @@
 
 Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Chile]([http://www.eventbrite.ca/e/637519998477/?discount=sponsorfriends20Jan2024](https://nerdear.la/en/))**. 
 
-![image](https://github.com/gittogethers/nerdearla-chile/assets/20666190/fc4a7b10-a7a0-457d-bd5e-1796203bcb80)
+<img width="310" alt="nerdeala src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/fc4a7b10-a7a0-457d-bd5e-1796203bcb80"
 
 ### Horarios de participacion y actividades 🗓️
 
@@ -17,20 +17,18 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
 ![image](https://github.com/gittogethers/nerdearla-chile/assets/20666190/0c685701-e93a-460e-bc4b-165686f50ddd)
 
 
+## Dia 1 |Jueves, abril 11
 
+- Apertura de la Exhibición virtual a las 10:00 AM: Únete para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
 
-
-
-- Apertura de la Exhibición a las 9:00 AM: Únete para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
-  ![image](https://github.com/githubpresente/impulse-ai/assets/20666190/17c9e05a-cc58-4f09-a765-67ffbbb6671b)
-  
+## Dia 2 | Viernes, abril 12
 - 12:05 PM - 12:35 PM: Inteligencia Artificial en Desarrollo - Conoce al Copilot de hoy y su futuro. Lugar: Sala Fiestas.
 Tema de la Charla: Copilot es más que un asistente para desarrolladores en su entorno de programación. Próximamente se lanzarán numerosas características adicionales, con el objetivo de integrar la IA en cada etapa del proceso de DevSecOps. Descúbrelas en nuestra charla.
 
 - Octotrivia a las 4 PM en la mesa de GitHub exhibit: Juega, participa y demuestra tus conocimientos en IA y gana swag!
 <img width="310" alt="Screenshot 2024-01-15 at 4 42 05 PM" src="https://github.com/githubpresente/impulse-ai/assets/20666190/d31a374b-8816-4c41-b34b-ae8ef3e948e5">
 
-## Dia 2 | Miercoles, enero 17
+## Dia 3 | Sabado, abril 13
 
 - Apertura de la Exhibición a las 9:00 AM: ¡Únete a nuestro encuentro para participar en una rifa especial! No te pierdas nuestros [GitTogethers Presenciales en CDMX](https://gh.io/grupomexico).
 - Introducción al SDP 11:00 AM a 11:15 AM: 👩🏻‍🎓 Si eres estudiante, recuerda que tienes acceso al GitHub Student Developer Pack, que incluye más de 80 herramientas, como copilot, de manera gratuita. Únete a esta charla relámpago desde nuestro stand y descubre todas las ventajas aquí: [https://gh.io/impulse-conf](https://gh.io/impulse-conf).
