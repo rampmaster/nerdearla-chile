@@ -18,7 +18,7 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
 ## Dia 1 Plataforma Virtual | Jueves, abril 11
 
 - Apertura de la Exhibición virtual a las 10:00 AM: Únete para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
-- [Inscribete para ganar: deja un comentario en este [issue.](https://github.com/gittogethers/selector-rifa/issues/63).
+- Inscribete para ganar: deja un comentario en este[issue.](https://github.com/gittogethers/selector-rifa/issues/63).
 - Charla del dia por Lider de GitTogeher Santiago:
 <img width="520" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/399bd990-82fd-4d99-9327-0db52c366e2c">
 
