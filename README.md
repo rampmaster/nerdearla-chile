@@ -44,7 +44,7 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
 
 
 
-✍🏽 Un par de Términos y Condiciones:
+## ✍🏽 Un par de Términos y Condiciones:
 - Participar en esta rifa, actividades en el exhibit y otras NO constituirá tu consentimiento para ser contactado por cualquier otra cosa.
 - No te agregaremos a nuestra base de datos de marketing (pero si quieres suscribirte a nuestro boletín, puedes hacerlo [aquí](https://resources.github.com/newsletter/).
 - Los premios de las actividades no se puede cambiar o intercambiar.
