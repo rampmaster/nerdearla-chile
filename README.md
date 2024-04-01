@@ -39,8 +39,8 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
 
 - Apertura de la Exhibición a las 10:00 AM: ¡Únete a nuestro encuentro para participar en una rifa especial! No te pierdas nuestros [GitTogethers Presenciales en Santiago](https://www.meetup.com/gittogether-santiago/).
 - Introducción al SDP 11:00 AM a 11:20 AM: 👩🏻‍🎓 Si eres estudiante, recuerda que tienes acceso al GitHub Student Developer Pack, que incluye más de 80 herramientas, como copilot, de manera gratuita. Únete a esta charla relámpago desde nuestro stand y descubre todas las ventajas aquí: [SDP](https://gh.io/edu-nerdearla).
-- Rifa Final a las 4 PM: ¡Si aún no has participado en nuestro sorteo, esta es tu oportunidad! Inscribete para ganar: deja un comentario en este [issue.](https://github.com/gittogethers/selector-rifa/issues/63)
-   <img src="https://github.com/githubpresente/impulse-ai/assets/20666190/7411881f-c63d-40a8-9fca-4158ea59f489" width="200" height="200">
+- Rifa Final a las 4 PM: ¡Si aún no has participado en nuestro sorteo, esta es tu oportunidad!
+  Inscribete para ganar: deja un comentario en este [issue.](https://github.com/gittogethers/selector-rifa/issues/63)
 
 
 
