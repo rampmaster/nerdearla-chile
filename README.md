@@ -17,11 +17,12 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
 ## Dia 1 | Jueves, abril 11
 
 - Apertura de la Exhibición virtual a las 10:00 AM: Únete para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
-- ![image](https://github.com/gittogethers/nerdearla-chile/assets/20666190/91115e70-3ff8-431d-8ec7-d04e41e42373)
 
+<img width="520" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/399bd990-82fd-4d99-9327-0db52c366e2c">
 
 ## Dia 2 | Viernes, abril 12
 - Apertura de la Exhibición fisica a las 10:00 AM: Únete para participar en nuestros sorteos
+<img width="520" alt="nerd" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/30d6defe-0bce-4e31-a6c7-5ddb673c1499">
 
 
 - 12:05 PM - 12:35 PM: Inteligencia Artificial en Desarrollo - Conoce al Copilot de hoy y su futuro. Lugar: Sala Fiestas.
