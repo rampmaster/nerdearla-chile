@@ -41,9 +41,8 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
   ¡Únete a nuestro encuentro para participar en una rifa especial! No te pierdas nuestros [GitTogethers Presenciales en Santiago](https://www.meetup.com/gittogether-santiago/).
 - **12:30 PM - 1:00 PM**: Kahoot sobre Git y GitHub  | Stand
 - **1:30 PM - 2:00 PM**: Entrevistas IG Reel: "What is the biggest mistake you made while learning to code."  | Stand
-- **4:00 PM - 4:30 PM**: Comparte un momento de Nerdearla  | Stand
-- **Rifa Final**: 4 PM
-  ¡Si aún no has participado en nuestro sorteo, esta es tu oportunidad!
+- **4:00 PM - 4:30 PM**: Comparte un momento de Nerdearla  | Deja tu comentarion aqui para participar | Stand
+- **Rifa Final: 4 PM**: ¡Si aún no has participado en nuestro sorteo, esta es tu oportunidad!
   Inscríbete para ganar: deja un comentario en este [issue.](https://github.com/gittogethers/selector-rifa/issues/63)
 
 ## ✍🏽 Un par de Términos y Condiciones:
