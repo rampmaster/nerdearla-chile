@@ -26,7 +26,7 @@ Reserva tu cupo: [GitTogether Santiago](https://www.meetup.com/gittogether-santi
 
 - **Apertura de la Exhibición física**: 10:00 AM
 - **10:00 AM - 10:30 AM**: GitHub Copilot para tu Productividad por Oliver Fierro | Stand
-- **11:00 AM - 11:30 AM**: Presentación de la comunidad Github Chile por Oliver Fierro  | Stand
+- **11:00 AM - 11:30 AM**: Presentación de la comunidad GitHub Chile por Oliver Fierro  | Stand
 - **11:10 AM - 11:50 AM**: Impulsando tu DevEx con GitHub Copilot | Track: DEV
 - **12:00 PM - 12:30 PM**: Cómo aplicar a los beneficios de GitHub Education por Juan Pablo Flores  👩🏻‍🎓 Si eres estudiante, recuerda que tienes acceso al GitHub Student Developer Pack, que incluye más de 80 herramientas, como copilot, de manera gratuita. Únete a esta charla relámpago desde nuestro stand y descubre todas las ventajas aquí: [SDP](https://gh.io/edu-nerdearla).  | Stand
 - **2:00 PM - 3:00 PM**: Dominando GitHub: Estrategias y Preparación para la Certificación de Fundamentos | Track: DEV
