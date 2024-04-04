@@ -41,7 +41,7 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ch
 - **4:00 PM**: Octotrivia en el stand de exhibición de GitHub. ¡Juega, participa y demuestra tus conocimientos en IA para ganar swag!
 
 <p align="center">
-  <img alt="Octotrivia" src="https://github.com/githubpresente/impulse-ai/assets/20666190/d31a374b-8816-4c41-b34b-ae8ef3e948e5">
+<img width="420" alt="Charla del Día" src="https://github.com/githubpresente/impulse-ai/assets/20666190/d31a374b-8816-4c41-b34b-ae8ef3e948e5"
 </p>
 
 ## Día 3 | Sábado, 13 de Abril
