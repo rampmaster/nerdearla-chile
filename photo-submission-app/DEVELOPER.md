@@ -31,7 +31,10 @@ The application integrates with the GitHub API to submit photos to a specified i
 
 1. Clone the repository to your local machine.
 2. Navigate to the `photo-submission-app/` directory.
-3. Open the `index.html` file in a web browser to launch the application.
+3. To serve the application locally, you will need Node.js and npm installed on your machine. If you do not have them installed, please visit [Node.js](https://nodejs.org/) to download and install them.
+4. Install `http-server` by running `npm install -g http-server` in your terminal.
+5. Navigate to the `photo-submission-app/photo-submission-ui/` directory and run `http-server` in your terminal.
+6. Open your web browser and go to `http://localhost:8080` to view the application.
 
 ## Testing
 
