@@ -1,6 +1,7 @@
 // JavaScript file for GitHub API integration to facilitate photo submission to a specified issue
 
-async function submitPhotoToIssue(issueUrl, photoData, userToken) {
+async function submitPhotoToIssue(issueUrl, photoData) {
+    const userToken = process.env.GITHUB_TOKEN; // Retrieve userToken from environment variable
     const formData = new FormData();
     formData.append('photo', photoData);
 
