@@ -15,6 +15,7 @@ This document provides an overview of the Photo Submission Application, detailin
 - `tests/`: Contains test files for the application.
   - `unit-tests.js`: Performs unit testing on application components.
   - `integration-tests.js`: Conducts integration testing with the GitHub API.
+  - `e2e-tests.js`: Contains end-to-end tests to validate the complete workflow of the application, including UI interactions and API integrations.
 
 ## APIs
 
@@ -38,7 +39,19 @@ The application integrates with the GitHub API to submit photos to a specified i
 
 ## Testing
 
-Refer to the `tests/` directory for unit and integration testing scripts. Run these tests to ensure the application components and GitHub API integration work as expected.
+Refer to the `tests/` directory for unit, integration, and end-to-end (E2E) testing scripts. 
+
+### Running Unit and Integration Tests
+
+Run these tests to ensure the application components and GitHub API integration work as expected.
+
+### Running End-to-End (E2E) Tests
+
+End-to-end tests can be run to validate the complete workflow of the application, including UI interactions and API integrations. To run the E2E tests, navigate to the `photo-submission-app/tests/` directory and execute the following command:
+
+```
+npm run test:e2e
+```
 
 ## Contribution Guidelines
 
