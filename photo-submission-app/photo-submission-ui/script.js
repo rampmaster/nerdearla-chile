@@ -18,11 +18,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
         try {
             // Secure photo upload to GitHub issue
-            const response = await fetch('API_ENDPOINT', {
+            const response = await fetch(process.env.API_ENDPOINT, {
                 method: 'POST',
                 body: formData,
                 headers: {
-                    'Authorization': 'Bearer YOUR_GITHUB_TOKEN'
+                    'Authorization': `Bearer ${process.env.GITHUB_TOKEN}`
                 }
             });
 
