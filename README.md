@@ -38,6 +38,7 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ch
 - **10:00 AM - 10:30 AM**: GitHub Copilot para tu Productividad por Oliver Fierro | Stand
 - **10:30 AM - 11:00 AM**: Presentación de la Comunidad GitHub Chile por Oliver Fierro | Stand
 - **11:10 AM - 11:50 AM**: Impulsando tu DevEx con GitHub Copilot | Track: DEV
+- **11:50 AM - 12:30 AM**: Open Source Viernes en vivo desde Nerdearla | [stream](https://streamyard.com/view_on_platform/youtube?link=https://www.youtube.com/watch?v=-EQbrLV_GpU) y presencial 
 - **12:00 PM - 12:30 PM**: Cómo Aplicar a los Beneficios de GitHub Education por Juan Pablo Flores 👩🏻‍🎓
   - Si eres estudiante, recuerda que tienes acceso al GitHub Student Developer Pack, que incluye más de 80 herramientas, como Copilot, de forma gratuita. Únete a esta charla relámpago desde nuestro stand y descubre todos los beneficios aquí: [SDP](https://gh.io/edu-nerdearla).
 - **2:00 PM - 3:00 PM**: Dominando GitHub: Estrategias y Preparación para la Certificación de Fundamentos | Track: DEV
