@@ -12,7 +12,7 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ch
   <a href="#términos-y-condiciones">Términos y Condiciones</a>
 </div>
 
-<p align="center">
+<p align="left">
   <img width="310" alt="Logo de Nerdearla" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/fc4a7b10-a7a0-457d-bd5e-1796203bcb80">
 </p>
 
@@ -20,23 +20,13 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ch
 
 ## Día 0: Evento en AIEP | Miércoles, 10 de Abril
 
-¡Hola comunidad! Estamos emocionados de anunciar nuestro primer evento presencial en abril. 🙌🏼 En este evento, tendrás la oportunidad de conocer a la comunidad de GitHub, disfrutar de charlas interesantes, interactuar con profesionales de GitHub, participar en concursos y más.
-
-**Reserva tu lugar: [GitTogether Santiago](https://www.meetup.com/gittogether-santiago/)**
-
-<p align="center">
-  <img width="520" alt="GitTogether Santiago" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/c4ca6072-a35a-432b-ba00-444fd4ad3121">
-</p>
+¡Hola comunidad! Estamos emocionados de anunciar nuestro primer evento presencial en abril. 🙌🏼 En este evento, tendrás la oportunidad de conocer a la comunidad de GitHub, disfrutar de charlas interesantes, interactuar con profesionales de GitHub, participar en concursos y más. Unete a la comunidad para participar el los proximos eventos: [GitTogether Santiago](https://www.meetup.com/gittogether-santiago/)
 
 ## Día 1: Plataforma Virtual | Jueves, 11 de Abril
 
 - **10:00 AM**: Apertura de la Exhibición Virtual. Únete a nosotros para participar en nuestro sorteo y descubrir más sobre GitHub Copilot.
   - Regístrate para ganar: Deja un comentario en este [issue](https://github.com/gittogethers/selector-rifa/issues/63).
-- **Charla del Día por el Líder de GitTogether Santiago**:
-
-<p align="center">
-  <img width="520" alt="Charla del Día" src="https://github.com/gittogethers/nerdearla-chile/assets/20666190/399bd990-82fd-4d99-9327-0db52c366e2c">
-</p>
+- **Charla del Día por el Líder de GitTogether Santiago**: [grabaccion](https://app.swapcard.com/event/nerdearla-chile-2024/planning/UGxhbm5pbmdfMTg4MjM2NQ==)
 
 ## Día 2 | Viernes, 12 de Abril
 
@@ -57,7 +47,7 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ch
 
 </details>
 
-<p align="center">
+<p align="left">
 <img width="420" alt="Charla del Día" src="https://github.com/githubpresente/impulse-ai/assets/20666190/d31a374b-8816-4c41-b34b-ae8ef3e948e5"
 </p>
 
@@ -85,6 +75,6 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ch
 
 <!-- Footer -->
 <div id="footer">
-  <p>Contacto: <a href="mailto:info@nerdear.la">info@nerdear.la</a></p>
-  <p>Síguenos en nuestras redes sociales: <a href="https://twitter.com/nerdearla">Twitter</a> | <a href="https://www.facebook.com/nerdearla">Facebook</a> | <a href="https://www.instagram.com/nerdearla/">Instagram</a></p>
+  <p>Contacto: <a href="mailto:andreagriffiths11@github.com">GitHub</a></p>
+  <p>Síguenos en nuestras redes sociales: <a href="https://twitter.com/githubcommunity">Twitter</a> 
 </div>
