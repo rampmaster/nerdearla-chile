@@ -39,6 +39,7 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ch
 - **2:00 PM - 3:00 PM**: Dominando GitHub: Estrategias y Preparación para la Certificación de Fundamentos | Track: DEV
 - **2:50 PM - 3:30 PM**: Adoptando IA en Educación: ¿Un Camino Hacia un Aprendizaje Inclusivo y Efectivo? | Track: SOFTSKILLS
 - **4:00 PM**: Octotrivia en el stand de exhibición de GitHub. ¡Juega, participa y demuestra tus conocimientos en IA para ganar swag!
+- **4:30 PM**: Premios de raffle, entra aqui: [https:gh.io/sorteo-viernes](https:gh.io/sorteo-viernes)
 
 <p align="center">
 <img width="420" alt="Charla del Día" src="https://github.com/githubpresente/impulse-ai/assets/20666190/d31a374b-8816-4c41-b34b-ae8ef3e948e5"
