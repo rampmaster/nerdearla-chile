@@ -61,6 +61,8 @@ Nos complace anunciar que GitHub es el orgulloso patrocinador de **[Nerdearla Ch
 - **10:00 AM**: Apertura de la Exhibición. ¡Únete a nosotros para un sorteo especial! No te pierdas nuestros [GitTogethers Presenciales en Santiago](https://www.meetup.com/gittogether-santiago/).
 - **12:30 PM - 1:00 PM**: Kahoot sobre Git y GitHub | Stand
 - **1:30 PM - 2:00 PM**: Entrevistas IG Reel: "¿Cuál es el mayor error que cometiste mientras aprendías a programar?" | Stand
+- **2:30 PM - 3:00 PM**: Conoce a Brais Moure [@https://twitter.com/MoureDev](mouredev) Generosamente Brais trae 3 libros para rifar y autografar!| Stand
+  ![braismoure](https://github.com/gittogethers/nerdearla-chile/assets/20666190/ee5215de-49e4-45da-827d-054a86e5d1c1)
 - **4:00 PM - 4:30 PM**: Comparte un Momento de Nerdearla | Deja tu comentario aquí para participar | Stand
 - **4:00 PM**: Sorteo Final. Si aún no has participado en nuestro sorteo, ¡esta es tu oportunidad! Regístrate para ganar: Deja un comentario en este [issue](https://github.com/gittogethers/selector-rifa/issues/63).
 
